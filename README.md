@@ -9,7 +9,7 @@ Responsive Portfolio created using React JS &amp; SASS
 - SASS
 
 # Live Site
-- 
+- https://geniusportfoliomk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/Portfolio-React/assets/4027728/79d0ccca-8300-4cfe-a21a-a7f1e70ec6be)
